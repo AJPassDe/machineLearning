@@ -5,8 +5,11 @@ Created on Sat Jun 27 12:15:06 2020
 micro-course:
 https://www.kaggle.com/learn/intro-to-machine-learning
 
-dataSet:
+melbourne dataSet:
 https://www.kaggle.com/dansbecker/melbourne-housing-snapshot
+
+iowa dataSet:
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 @author: AJ
 """

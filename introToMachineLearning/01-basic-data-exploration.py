@@ -8,6 +8,10 @@ https://www.kaggle.com/learn/intro-to-machine-learning
 dataSet:
 https://www.kaggle.com/dansbecker/melbourne-housing-snapshot
 
+iowa dataSet:
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+
 @author: AJ
 """
 
